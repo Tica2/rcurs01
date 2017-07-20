@@ -2,3 +2,5 @@
 
 Git test curs.
 
+Adaugat de petrica chiriac
+
